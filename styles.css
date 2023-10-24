@@ -1,0 +1,12 @@
+.nav-item{
+    padding-right: 60px
+    
+}
+
+.uno {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente el contenido */
+    align-items: center; /* Centra verticalmente el contenido */
+    flex-direction: column;
+
+}
